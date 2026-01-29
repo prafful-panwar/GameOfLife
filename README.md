@@ -22,7 +22,7 @@ Ensure you have PHP installed on your machine.
 php run.php
 ```
 
-The simulation will start, initializing a 25x25 grid with a Glider pattern in the center. It runs for 100 generations, clearing the console and updating the grid state every 0.2 seconds.
+The simulation will start, initializing a 25x25 grid with a Glider pattern in the center. It runs for 50 generations, clearing the console and updating the grid state every 1 seconds.
 
 ## Customization
 
